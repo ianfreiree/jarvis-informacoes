@@ -1,0 +1,9 @@
+# Repositório público: incluir somente os arquivos informativos abaixo.
+*
+!/.gitignore
+!/AGENTS.md
+!/index.html
+!/privacidade.html
+!/termos.html
+!/style.css
+!/googlecc92e0435dd1c2aa.html
